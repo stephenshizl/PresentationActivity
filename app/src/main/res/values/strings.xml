@@ -1,0 +1,8 @@
+<resources>
+    <string name="presentation_with_media_router_play_on">Play on...</string>
+    <string name="presentation_with_media_router_now_playing_locally">Now playing on main display \'%s\'.</string>
+    <string name="presentation_with_media_router_now_playing_remotely">Now playing on secondary display \'%s\'.</string>
+
+    <string name="app_name">"PresentationActivity "</string>
+    <string name="presentation_with_media_router_activity_text">test</string>
+</resources>
